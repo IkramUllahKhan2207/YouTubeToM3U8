@@ -1,110 +1,85 @@
-## FORMAT: <channel name> || <channel id> || <category>
-## <channel name> can be anything - either stream or channel name. It will appear on the EPG though.
-## <channel id> is used to match EPG data to the M3U8 playlist, so make it short and with no spaces. End it in '.yt' to show its from YouTube.
-## <category> is used to group streams, so something like 'Music' or 'News' is recommended.
-
-Chillhop Music (jazzy & lofi hip hop beats) || Chillhop.yt || Music
-https://www.youtube.com/watch?v=5yx6BWlEVcY
-
-Avex J-Pop 24/7 || Avex.yt || Music
-https://www.youtube.com/watch?v=tr77RbnfYIU
-
-Tomorrowland: One World Radio || TOWR.yt || Music
-https://www.youtube.com/watch?v=wBgSH-CGPzg
-
-JapanesePod101 Live || JPod101.yt || Education
-https://www.youtube.com/watch?v=c3nH0tIpK68
-
-Korea.net Live || KoreaNet.yt || Education
-https://www.youtube.com/watch?v=ym_Tf2dSWGY
-
-Sky News || SkyNews.yt || News
-https://www.youtube.com/watch?v=9Auq9mYxFEE
-
-France 24 (English) || France24En.yt || News
-https://www.youtube.com/watch?v=tkDUSYHoKxE
-
-CGTN Europe || CGTN Europe.yt || News
-https://www.youtube.com/watch?v=UP5z9dRC6RU
-
-CNA || CNA.yt || News
-https://www.youtube.com/watch?v=XWq5kBlakcQ
-
-ABC News (US) || ABCNewsUS.yt || News
-https://www.youtube.com/watch?v=OOtxXPaQvoM
-
-ABC News (AU) || ABCNewsAU.yt ||  News
-https://www.youtube.com/watch?v=vOTiJkg1voo
-
-Bloomberg Global || Bloomberg.yt || News
-https://www.youtube.com/watch?v=dp8PhLsUcFE
-
-Euronews || EuronewsEN.yt || News
-https://www.youtube.com/watch?v=pykpO5kQJ98
-
-NDTV 24x7 || NDTV.yt || News
-https://www.youtube.com/watch?v=Nen3UXaWDDE
-
-Al Jazeera English || AlJazeera.yt || News
-https://www.youtube.com/watch?v=gCNeDWCI0vo
-
-TRT World || TRTWorld.yt || News
-https://www.youtube.com/watch?v=5VF4aor94gw
-
-CNBC Marathon || CNBCMarathon.yt || News
-https://www.youtube.com/watch?v=9NyxcX3rhQs
-
-DW News || DWNews.yt || News
-https://www.youtube.com/watch?v=pqabxBKzZ6M
-
-NHK World Japan || NHKWorld.yt || News
-https://www.youtube.com/watch?v=f0lYkdA-Gtw
-
-Relaxing Jazz Piano Radio || JazzRadio.yt || Music
-https://www.youtube.com/watch?v=Dx5qFachd3A
-
-Epidemic Pop || EpidemicPop.yt || Music
-https://www.youtube.com/watch?v=wrEckgZZapI
-
-TOKYO Cafe || TokyoCafe.yt || Music
-https://www.youtube.com/watch?v=6uddGul0oAc
-
-Rainy Jazz: Relaxing Jazz & Bossa Nova Music Radio || RainyJazz.yt || Music
-https://www.youtube.com/watch?v=DSGyEsJ17cI
-
-Little Soul: Music to put you in a better mood || LittleSoul.yt || Music
-https://www.youtube.com/watch?v=XstikgbeTPI
-
-Lofi Girl: lofi hip hop radio (beats to relax/study to) || LofiGirl1.yt || Music
-https://www.youtube.com/watch?v=jfKfPfyJRdk
-
-Lofi Girl: lofi hip hop radio (beats to sleep/chill to) || LofiGirl2.yt || Music
-https://www.youtube.com/watch?v=rUxyKA_-grg
-
-Jazz Cafe Ambience || JazzCafeAmbience.yt || Music
-https://www.youtube.com/watch?v=AEKtQW93OVg
-
-Abao in Tokyo: jazz/lofi hip hop radio || AbaoInTokyo.yt || Music
-https://www.youtube.com/watch?v=HAZoLuME-PU
-
-The Good Life Radio || GoodLifeRadio.yt || Music
-https://www.youtube.com/watch?v=36YnV9STBqc
-
-Vibing with KPop with KBS WORLD TV || KBSWorldKPop.yt || Music
-https://www.youtube.com/watch?v=6OSR_exBXQc
-
-KBS KOREA Live || KBSKorea.yt || News
-https://www.youtube.com/watch?v=OxQQsIvJTTU
-
-FeelingInTheBeat Radio || FeelingInTheBeat.yt || Music
-https://www.youtube.com/watch?v=Ix3kXeAyXfA
-
-NASA Starbase Live || NASALive.yt || Live
-https://www.youtube.com/watch?v=mhJRzQsLZGg
-
-渋谷スクランブル交差点 Shibuya Scramble Crossing Live Camera || ShibuyaScramble.yt || Live
-https://www.youtube.com/watch?v=3kPH7kTphnE
-
-ARY Digital (Pakistani Dramas & Entertainment) || ARYDigital.yt || Live
-https://www.youtube.com/watch?v=QoUkQUq57LA
-
+ARY News || ARYNews.yt || News || https://www.youtube.com/@ARYNews/live
+Geo News || GeoNews.yt || News || https://www.youtube.com/@GeoNews/live
+Dunya News || DunyaNews.yt || News || https://www.youtube.com/@DunyaNews/live
+Samaa TV || SamaaTV.yt || News || https://www.youtube.com/@SamaaTV/live
+Express News || ExpressNews.yt || News || https://www.youtube.com/@ExpressNews/live
+BOL News || BOLNews.yt || News || https://www.youtube.com/@BOLNews/live
+Hum News || HumNews.yt || News || https://www.youtube.com/@HumNews/live
+Aaj News || AajNews.yt || News || https://www.youtube.com/@AajNews/live
+Suno News || SunoNews.yt || News || https://www.youtube.com/@SunoNews/live
+92 News || 92News.yt || News || https://www.youtube.com/@92NewsHD/live
+24 News HD || 24NewsHD.yt || News || https://www.youtube.com/@24NewsHD/live
+Public News || PublicNews.yt || News || https://www.youtube.com/@PublicNews/live
+GNN || GNN.yt || News || https://www.youtube.com/@GNN/live
+Abb Takk || AbbTakk.yt || News || https://www.youtube.com/@AbbTakk/live
+Neo News || NeoNews.yt || News || https://www.youtube.com/@NeoNews/live
+PTV News || PTVNews.yt || News || https://www.youtube.com/@PTVNews/live
+Roze News || RozeNews.yt || News || https://www.youtube.com/@RozeNews/live
+Khyber News || KhyberNews.yt || News || https://www.youtube.com/@KhyberNews/live
+Hum TV || HumTV.yt || Drama || https://www.youtube.com/@HumTV/live
+ARY Digital || ARYDigital.yt || Drama || https://www.youtube.com/@ARYDigital/live
+Geo TV || GeoTV.yt || Entertainment || https://www.youtube.com/@GeoTV/live
+PTV Home || PTVHome.yt || Entertainment || https://www.youtube.com/@PTVHomeEntertainment/live
+A-Plus || APlus.yt || Entertainment || https://www.youtube.com/@APlusEntertainment/live
+TV One || TVOne.yt || Entertainment || https://www.youtube.com/@TVOneGlobal/live
+Express Entertainment || ExpressEnt.yt || Entertainment || https://www.youtube.com/@ExpressEntertainment/live
+Play Entertainment || PlayEnt.yt || Entertainment || https://www.youtube.com/@PlayEntertainment/live
+Green Entertainment || GreenEnt.yt || Entertainment || https://www.youtube.com/@GreenEntertainment/live
+Hum Sitaray || HumSitaray.yt || Entertainment || https://www.youtube.com/@HumSitaray/live
+ARY Zindagi || ARYZindagi.yt || Entertainment || https://www.youtube.com/@ARYZindagi/live
+Kids Land || KidsLand.yt || Kids || https://www.youtube.com/@KidsLandOfficial/live
+Kids Zone Pakistan || KidsZone.yt || Kids || https://www.youtube.com/@KidsZonePakistan/live
+Kids Planet Urdu || KidsPlanetUrdu.yt || Kids || https://www.youtube.com/@KidsPlanetUrdu/live
+ToffeeTV || ToffeeTV.yt || Kids || https://www.youtube.com/@ToffeeTV/live
+Little Ustaad Kids || LittleUstaad.yt || Kids || https://www.youtube.com/@littleustad-i1b/live
+NonoCoco Kids || NonoCoco.yt || Kids || https://www.youtube.com/@nonococokids/live
+Monkey for Kids || MonkeyForKids.yt || Kids || https://www.youtube.com/@monkeyforkids3/live
+Karachi Kids KKT || KarachiKids.yt || Kids || https://www.youtube.com/@KarachiKidsKKT/live
+Kalia Kids || KaliaKids.yt || Kids || https://www.youtube.com/@kaliakids061/live
+Wow Kids Pakistan || WowKids.yt || Kids || https://www.youtube.com/@wowkidspakistan8601/live
+Madani Channel Urdu || MadaniChannelUrdu.yt || Islamic || https://www.youtube.com/@MadaniChannelUrduLive/live
+ARY QTV || ARYQTV.yt || Islamic || https://www.youtube.com/@ARYQTV/live
+Dua Channel || DuaChannel.yt || Islamic || https://www.youtube.com/@DuaChannel/live
+Haq TV || HaqTV.yt || Islamic || https://www.youtube.com/@HaqTV/live
+Noor Islamic Studio || NoorIslamic.yt || Islamic || https://www.youtube.com/@NoorIslamicStudio/live
+AUM Islamic Channel || AUMIslamic.yt || Islamic || https://www.youtube.com/@aumislamicchannel/live
+Paigam e Quran || PaigamEQuran.yt || Islamic || https://www.youtube.com/@paigamequran-k3t/live
+Follow The Light of Islam || LightOfIslam.yt || Islamic || https://www.youtube.com/@lightofislam-95/live
+PTV Sports || PTVSports.yt || Sports || https://www.youtube.com/@PTVSports/live
+A Sports || ASports.yt || Sports || https://www.youtube.com/@ASportsHD/live
+Ten Sports || TenSports.yt || Sports || https://www.youtube.com/@TenSports/live
+Geo Super || GeoSuper.yt || Sports || https://www.youtube.com/@GeoSuper/live
+Sports Zone 88 || SportsZone88.yt || Sports || https://www.youtube.com/@sportszone-88-pak/live
+Zalmi Sports PK || ZalmiSports.yt || Sports || https://www.youtube.com/@zalmisportspklive/live
+ProSports Live || ProSports.yt || Sports || https://www.youtube.com/@LiveProSports/live
+Pak MMA Federation || PakMMA.yt || Sports || https://www.youtube.com/@PakMMAFederation/live
+Indus Music || IndusMusic.yt || Music || https://www.youtube.com/@IndusMusic/live
+ARY Musik || ARYMusik.yt || Music || https://www.youtube.com/@ARYMusik/live
+Bisconni Music || BisconniMusic.yt || Music || https://www.youtube.com/@BisconniMusic/live
+Pakistani Regional Songs || PakRegionalSongs.yt || Music || https://www.youtube.com/@PakistaniRegionalSongs/live
+Super Production || SuperProduction.yt || Music || https://www.youtube.com/@SuperProduction/live
+SP Music Factory || SPMusicFactory.yt || Music || https://www.youtube.com/@spmusicfactorypakistan/live
+Pakistani Music Addiction || PakMusicAddiction.yt || Music || https://www.youtube.com/@pakistanimusicaddiction/live
+Live Kirtan Darbar Pakistan || LiveKirtan.yt || Music || https://www.youtube.com/@LiveKirtanDarbarPakistan/live
+Tandoori Tracks || TandooriTracks.yt || Cooking || https://www.youtube.com/@TandooriTracks/live
+Pakistani Cooking || PakistaniCooking.yt || Cooking || https://www.youtube.com/@pakcooking232/live
+Fatima Saleem Cooking || FatimaSaleem.yt || Cooking || https://www.youtube.com/@FatimaSaleemCooking/live
+COOKING WITH KASHMEEN || CookingKashmeen.yt || Cooking || https://www.youtube.com/@COOKINGWITHKASHMEEN/live
+Samina Shafqat || SaminaShafqat.yt || Cooking || https://www.youtube.com/@saminacookingrecipes/live
+Foodie Life PK || FoodieLifePK.yt || Cooking || https://www.youtube.com/@FoodieLifePK/live
+Chatpaty Pakwan || ChatpatyPakwan.yt || Cooking || https://www.youtube.com/@ChatpatyPakwan/live
+Celebrities Life Style Pakistan || CelebLifeStyle.yt || Lifestyle || https://www.youtube.com/@celebrities_life_style/live
+Sistrology || Sistrology.yt || Lifestyle || https://www.youtube.com/@Sistrology/live
+Adeel Imtiaz Lifestyle || AdeelImtiaz.yt || Lifestyle || https://www.youtube.com/@askadeelimtiaz/live
+Kinza Village Life || KinzaVillage.yt || Lifestyle || https://www.youtube.com/@KinzaVillageLife/live
+Hindu Vlogs || HinduVlogs.yt || Lifestyle || https://www.youtube.com/@hindu vlogs/live
+AVT Khyber || AVTKhyber.yt || Regional || https://www.youtube.com/@AVTKhyber/live
+K-2 || K2.yt || Regional || https://www.youtube.com/@K2/live
+Rohi TV || RohiTV.yt || Regional || https://www.youtube.com/@RohiTV/live
+Such TV || SuchTV.yt || Regional || https://www.youtube.com/@SuchTV/live
+Mashriq TV || MashriqTV.yt || Regional || https://www.youtube.com/@MashriqTV/live
+Pushto One || PushtoOne.yt || Regional || https://www.youtube.com/@PushtoOne/live
+SEE TV || SEETV.yt || Regional || https://www.youtube.com/@SEETV/live
+Sindh TV || SindhTV.yt || Regional || https://www.youtube.com/@SindhTVHD/live
+KTN News || KTNNews.yt || Regional || https://www.youtube.com/@KTNNews/live
+Mehran TV || MehranTV.yt || Regional || https://www.youtube.com/@MehranTV/live
