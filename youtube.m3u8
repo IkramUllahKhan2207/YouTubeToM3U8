@@ -1,106 +1,171 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Chillhop.yt" tvg-name="Chillhop Music (jazzy & lofi hip hop beats)" group-title="Music", Chillhop Music (jazzy & lofi hip hop beats)
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-id="ARYNews.yt" tvg-name="ARY News" group-title="News", ARY News
 
-#EXTINF:-1 tvg-id="Avex.yt" tvg-name="Avex J-Pop 24/7" group-title="Music", Avex J-Pop 24/7
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-id="GeoNews.yt" tvg-name="Geo News" group-title="News", Geo News
 
-#EXTINF:-1 tvg-id="TOWR.yt" tvg-name="Tomorrowland: One World Radio" group-title="Music", Tomorrowland: One World Radio
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-id="DunyaNews.yt" tvg-name="Dunya News" group-title="News", Dunya News
 
-#EXTINF:-1 tvg-id="JPod101.yt" tvg-name="JapanesePod101 Live" group-title="Education", JapanesePod101 Live
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-id="SamaaTV.yt" tvg-name="Samaa TV" group-title="News", Samaa TV
 
-#EXTINF:-1 tvg-id="KoreaNet.yt" tvg-name="Korea.net Live" group-title="Education", Korea.net Live
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-id="ExpressNews.yt" tvg-name="Express News" group-title="News", Express News
 
-#EXTINF:-1 tvg-id="SkyNews.yt" tvg-name="Sky News" group-title="News", Sky News
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-id="BOLNews.yt" tvg-name="BOL News" group-title="News", BOL News
 
-#EXTINF:-1 tvg-id="France24En.yt" tvg-name="France 24 (English)" group-title="News", France 24 (English)
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-id="HumNews.yt" tvg-name="Hum News" group-title="News", Hum News
 
-#EXTINF:-1 tvg-id="CGTN Europe.yt" tvg-name="CGTN Europe" group-title="News", CGTN Europe
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-id="AajNews.yt" tvg-name="Aaj News" group-title="News", Aaj News
 
-#EXTINF:-1 tvg-id="CNA.yt" tvg-name="CNA" group-title="News", CNA
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-id="SunoNews.yt" tvg-name="Suno News" group-title="News", Suno News
 
-#EXTINF:-1 tvg-id="ABCNewsUS.yt" tvg-name="ABC News (US)" group-title="News", ABC News (US)
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-id="92News.yt" tvg-name="92 News" group-title="News", 92 News
 
-#EXTINF:-1 tvg-id="ABCNewsAU.yt" tvg-name="ABC News (AU)" group-title="News", ABC News (AU)
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-id="24NewsHD.yt" tvg-name="24 News HD" group-title="News", 24 News HD
 
-#EXTINF:-1 tvg-id="Bloomberg.yt" tvg-name="Bloomberg Global" group-title="News", Bloomberg Global
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-id="PublicNews.yt" tvg-name="Public News" group-title="News", Public News
 
-#EXTINF:-1 tvg-id="EuronewsEN.yt" tvg-name="Euronews" group-title="News", Euronews
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-id="GNN.yt" tvg-name="GNN" group-title="News", GNN
 
-#EXTINF:-1 tvg-id="NDTV.yt" tvg-name="NDTV 24x7" group-title="News", NDTV 24x7
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-id="AbbTakk.yt" tvg-name="Abb Takk" group-title="News", Abb Takk
 
-#EXTINF:-1 tvg-id="AlJazeera.yt" tvg-name="Al Jazeera English" group-title="News", Al Jazeera English
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-id="NeoNews.yt" tvg-name="Neo News" group-title="News", Neo News
 
-#EXTINF:-1 tvg-id="TRTWorld.yt" tvg-name="TRT World" group-title="News", TRT World
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-id="PTVNews.yt" tvg-name="PTV News" group-title="News", PTV News
 
-#EXTINF:-1 tvg-id="CNBCMarathon.yt" tvg-name="CNBC Marathon" group-title="News", CNBC Marathon
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-id="RozeNews.yt" tvg-name="Roze News" group-title="News", Roze News
 
-#EXTINF:-1 tvg-id="DWNews.yt" tvg-name="DW News" group-title="News", DW News
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-id="KhyberNews.yt" tvg-name="Khyber News" group-title="News", Khyber News
 
-#EXTINF:-1 tvg-id="NHKWorld.yt" tvg-name="NHK World Japan" group-title="News", NHK World Japan
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-id="HumTV.yt" tvg-name="Hum TV" group-title="Drama", Hum TV
 
-#EXTINF:-1 tvg-id="JazzRadio.yt" tvg-name="Relaxing Jazz Piano Radio" group-title="Music", Relaxing Jazz Piano Radio
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-id="ARYDigital.yt" tvg-name="ARY Digital" group-title="Drama", ARY Digital
 
-#EXTINF:-1 tvg-id="EpidemicPop.yt" tvg-name="Epidemic Pop" group-title="Music", Epidemic Pop
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-id="GeoTV.yt" tvg-name="Geo TV" group-title="Entertainment", Geo TV
 
-#EXTINF:-1 tvg-id="TokyoCafe.yt" tvg-name="TOKYO Cafe" group-title="Music", TOKYO Cafe
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-id="PTVHome.yt" tvg-name="PTV Home" group-title="Entertainment", PTV Home
 
-#EXTINF:-1 tvg-id="RainyJazz.yt" tvg-name="Rainy Jazz: Relaxing Jazz & Bossa Nova Music Radio" group-title="Music", Rainy Jazz: Relaxing Jazz & Bossa Nova Music Radio
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-id="APlus.yt" tvg-name="A-Plus" group-title="Entertainment", A-Plus
 
-#EXTINF:-1 tvg-id="LittleSoul.yt" tvg-name="Little Soul: Music to put you in a better mood" group-title="Music", Little Soul: Music to put you in a better mood
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-id="TVOne.yt" tvg-name="TV One" group-title="Entertainment", TV One
 
-#EXTINF:-1 tvg-id="LofiGirl1.yt" tvg-name="Lofi Girl: lofi hip hop radio (beats to relax/study to)" group-title="Music", Lofi Girl: lofi hip hop radio (beats to relax/study to)
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-id="ExpressEnt.yt" tvg-name="Express Entertainment" group-title="Entertainment", Express Entertainment
 
-#EXTINF:-1 tvg-id="LofiGirl2.yt" tvg-name="Lofi Girl: lofi hip hop radio (beats to sleep/chill to)" group-title="Music", Lofi Girl: lofi hip hop radio (beats to sleep/chill to)
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-id="PlayEnt.yt" tvg-name="Play Entertainment" group-title="Entertainment", Play Entertainment
 
-#EXTINF:-1 tvg-id="JazzCafeAmbience.yt" tvg-name="Jazz Cafe Ambience" group-title="Music", Jazz Cafe Ambience
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-id="GreenEnt.yt" tvg-name="Green Entertainment" group-title="Entertainment", Green Entertainment
 
-#EXTINF:-1 tvg-id="AbaoInTokyo.yt" tvg-name="Abao in Tokyo: jazz/lofi hip hop radio" group-title="Music", Abao in Tokyo: jazz/lofi hip hop radio
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-id="HumSitaray.yt" tvg-name="Hum Sitaray" group-title="Entertainment", Hum Sitaray
 
-#EXTINF:-1 tvg-id="GoodLifeRadio.yt" tvg-name="The Good Life Radio" group-title="Music", The Good Life Radio
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-id="ARYZindagi.yt" tvg-name="ARY Zindagi" group-title="Entertainment", ARY Zindagi
 
-#EXTINF:-1 tvg-id="KBSWorldKPop.yt" tvg-name="Vibing with KPop with KBS WORLD TV" group-title="Music", Vibing with KPop with KBS WORLD TV
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-id="KidsLand.yt" tvg-name="Kids Land" group-title="Kids", Kids Land
 
-#EXTINF:-1 tvg-id="KBSKorea.yt" tvg-name="KBS KOREA Live" group-title="News", KBS KOREA Live
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-id="KidsZone.yt" tvg-name="Kids Zone Pakistan" group-title="Kids", Kids Zone Pakistan
 
-#EXTINF:-1 tvg-id="FeelingInTheBeat.yt" tvg-name="FeelingInTheBeat Radio" group-title="Music", FeelingInTheBeat Radio
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-id="KidsPlanetUrdu.yt" tvg-name="Kids Planet Urdu" group-title="Kids", Kids Planet Urdu
 
-#EXTINF:-1 tvg-id="NASALive.yt" tvg-name="NASA Starbase Live" group-title="Live", NASA Starbase Live
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-id="ToffeeTV.yt" tvg-name="ToffeeTV" group-title="Kids", ToffeeTV
 
-#EXTINF:-1 tvg-id="ShibuyaScramble.yt" tvg-name="渋谷スクランブル交差点 Shibuya Scramble Crossing Live Camera" group-title="Live", 渋谷スクランブル交差点 Shibuya Scramble Crossing Live Camera
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-id="LittleUstaad.yt" tvg-name="Little Ustaad Kids" group-title="Kids", Little Ustaad Kids
 
-#EXTINF:-1 tvg-id="ARYDigital.yt" tvg-name="ARY Digital (Pakistani Dramas & Entertainment)" group-title="Live", ARY Digital (Pakistani Dramas & Entertainment)
-https://www.youtube.com/watch?v=1oh9IEwBbFY
+#EXTINF:-1 tvg-id="NonoCoco.yt" tvg-name="NonoCoco Kids" group-title="Kids", NonoCoco Kids
+
+#EXTINF:-1 tvg-id="MonkeyForKids.yt" tvg-name="Monkey for Kids" group-title="Kids", Monkey for Kids
+
+#EXTINF:-1 tvg-id="KarachiKids.yt" tvg-name="Karachi Kids KKT" group-title="Kids", Karachi Kids KKT
+
+#EXTINF:-1 tvg-id="KaliaKids.yt" tvg-name="Kalia Kids" group-title="Kids", Kalia Kids
+
+#EXTINF:-1 tvg-id="WowKids.yt" tvg-name="Wow Kids Pakistan" group-title="Kids", Wow Kids Pakistan
+
+#EXTINF:-1 tvg-id="MadaniChannelUrdu.yt" tvg-name="Madani Channel Urdu" group-title="Islamic", Madani Channel Urdu
+
+#EXTINF:-1 tvg-id="ARYQTV.yt" tvg-name="ARY QTV" group-title="Islamic", ARY QTV
+
+#EXTINF:-1 tvg-id="DuaChannel.yt" tvg-name="Dua Channel" group-title="Islamic", Dua Channel
+
+#EXTINF:-1 tvg-id="HaqTV.yt" tvg-name="Haq TV" group-title="Islamic", Haq TV
+
+#EXTINF:-1 tvg-id="NoorIslamic.yt" tvg-name="Noor Islamic Studio" group-title="Islamic", Noor Islamic Studio
+
+#EXTINF:-1 tvg-id="AUMIslamic.yt" tvg-name="AUM Islamic Channel" group-title="Islamic", AUM Islamic Channel
+
+#EXTINF:-1 tvg-id="PaigamEQuran.yt" tvg-name="Paigam e Quran" group-title="Islamic", Paigam e Quran
+
+#EXTINF:-1 tvg-id="LightOfIslam.yt" tvg-name="Follow The Light of Islam" group-title="Islamic", Follow The Light of Islam
+
+#EXTINF:-1 tvg-id="PTVSports.yt" tvg-name="PTV Sports" group-title="Sports", PTV Sports
+
+#EXTINF:-1 tvg-id="ASports.yt" tvg-name="A Sports" group-title="Sports", A Sports
+
+#EXTINF:-1 tvg-id="TenSports.yt" tvg-name="Ten Sports" group-title="Sports", Ten Sports
+
+#EXTINF:-1 tvg-id="GeoSuper.yt" tvg-name="Geo Super" group-title="Sports", Geo Super
+
+#EXTINF:-1 tvg-id="SportsZone88.yt" tvg-name="Sports Zone 88" group-title="Sports", Sports Zone 88
+
+#EXTINF:-1 tvg-id="ZalmiSports.yt" tvg-name="Zalmi Sports PK" group-title="Sports", Zalmi Sports PK
+
+#EXTINF:-1 tvg-id="ProSports.yt" tvg-name="ProSports Live" group-title="Sports", ProSports Live
+
+#EXTINF:-1 tvg-id="PakMMA.yt" tvg-name="Pak MMA Federation" group-title="Sports", Pak MMA Federation
+
+#EXTINF:-1 tvg-id="IndusMusic.yt" tvg-name="Indus Music" group-title="Music", Indus Music
+
+#EXTINF:-1 tvg-id="ARYMusik.yt" tvg-name="ARY Musik" group-title="Music", ARY Musik
+
+#EXTINF:-1 tvg-id="BisconniMusic.yt" tvg-name="Bisconni Music" group-title="Music", Bisconni Music
+
+#EXTINF:-1 tvg-id="PakRegionalSongs.yt" tvg-name="Pakistani Regional Songs" group-title="Music", Pakistani Regional Songs
+
+#EXTINF:-1 tvg-id="SuperProduction.yt" tvg-name="Super Production" group-title="Music", Super Production
+
+#EXTINF:-1 tvg-id="SPMusicFactory.yt" tvg-name="SP Music Factory" group-title="Music", SP Music Factory
+
+#EXTINF:-1 tvg-id="PakMusicAddiction.yt" tvg-name="Pakistani Music Addiction" group-title="Music", Pakistani Music Addiction
+
+#EXTINF:-1 tvg-id="LiveKirtan.yt" tvg-name="Live Kirtan Darbar Pakistan" group-title="Music", Live Kirtan Darbar Pakistan
+
+#EXTINF:-1 tvg-id="TandooriTracks.yt" tvg-name="Tandoori Tracks" group-title="Cooking", Tandoori Tracks
+
+#EXTINF:-1 tvg-id="PakistaniCooking.yt" tvg-name="Pakistani Cooking" group-title="Cooking", Pakistani Cooking
+
+#EXTINF:-1 tvg-id="FatimaSaleem.yt" tvg-name="Fatima Saleem Cooking" group-title="Cooking", Fatima Saleem Cooking
+
+#EXTINF:-1 tvg-id="CookingKashmeen.yt" tvg-name="COOKING WITH KASHMEEN" group-title="Cooking", COOKING WITH KASHMEEN
+
+#EXTINF:-1 tvg-id="SaminaShafqat.yt" tvg-name="Samina Shafqat" group-title="Cooking", Samina Shafqat
+
+#EXTINF:-1 tvg-id="FoodieLifePK.yt" tvg-name="Foodie Life PK" group-title="Cooking", Foodie Life PK
+
+#EXTINF:-1 tvg-id="ChatpatyPakwan.yt" tvg-name="Chatpaty Pakwan" group-title="Cooking", Chatpaty Pakwan
+
+#EXTINF:-1 tvg-id="CelebLifeStyle.yt" tvg-name="Celebrities Life Style Pakistan" group-title="Lifestyle", Celebrities Life Style Pakistan
+
+#EXTINF:-1 tvg-id="Sistrology.yt" tvg-name="Sistrology" group-title="Lifestyle", Sistrology
+
+#EXTINF:-1 tvg-id="AdeelImtiaz.yt" tvg-name="Adeel Imtiaz Lifestyle" group-title="Lifestyle", Adeel Imtiaz Lifestyle
+
+#EXTINF:-1 tvg-id="KinzaVillage.yt" tvg-name="Kinza Village Life" group-title="Lifestyle", Kinza Village Life
+
+#EXTINF:-1 tvg-id="HinduVlogs.yt" tvg-name="Hindu Vlogs" group-title="Lifestyle", Hindu Vlogs
+
+#EXTINF:-1 tvg-id="AVTKhyber.yt" tvg-name="AVT Khyber" group-title="Regional", AVT Khyber
+
+#EXTINF:-1 tvg-id="K2.yt" tvg-name="K-2" group-title="Regional", K-2
+
+#EXTINF:-1 tvg-id="RohiTV.yt" tvg-name="Rohi TV" group-title="Regional", Rohi TV
+
+#EXTINF:-1 tvg-id="SuchTV.yt" tvg-name="Such TV" group-title="Regional", Such TV
+
+#EXTINF:-1 tvg-id="MashriqTV.yt" tvg-name="Mashriq TV" group-title="Regional", Mashriq TV
+
+#EXTINF:-1 tvg-id="PushtoOne.yt" tvg-name="Pushto One" group-title="Regional", Pushto One
+
+#EXTINF:-1 tvg-id="SEETV.yt" tvg-name="SEE TV" group-title="Regional", SEE TV
+
+#EXTINF:-1 tvg-id="SindhTV.yt" tvg-name="Sindh TV" group-title="Regional", Sindh TV
+
+#EXTINF:-1 tvg-id="KTNNews.yt" tvg-name="KTN News" group-title="Regional", KTN News
+
+#EXTINF:-1 tvg-id="MehranTV.yt" tvg-name="Mehran TV" group-title="Regional", Mehran TV
